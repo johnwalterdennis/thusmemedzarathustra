@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{title}}</title>
+    <title>Memes that represent every chapter of Thus Spoke Zarathustra</title>
     <style>
         @font-face {
             font-family: "Papyrus";
@@ -25,13 +25,14 @@
 </head>
 
 <body class="bg-amber-50 text-slate-900 antialiased flex flex-col items-center p-6">
-    <div class="flex flex-col col items-center gap-6 max-w-3xl w-full">
-        <h1 class="text-3xl text-center font-papyrus mb-6">{{title}}</h1>
-        <img src="../memes/{{file}}" class="max-w-full shadow-md mb-6" />
-        <p class="text-center whitespace-pre-line font-papyrus  text-gray-500 font-light text-lg leading-relaxed">
-            {{notes}}</p>
-        <a href="index.html" class="font-papyrus text-blue-300 hover:underline"> Back to all chapters</a>
+    <div>
+        <h1 class="text-3xl font-papyrus mb-6">Memes that represent every chapter of Thus Spoke Zarathustra</h1>
+        <h2 class=" font-papyrus mb-6 text-left text-2xl text-gray-500">Chapters:</h2>
+        <ul class="space-y-2 font-papyrus text-lg">
+            ${listItems}
+        </ul>
     </div>
+
 </body>
 
 </html>

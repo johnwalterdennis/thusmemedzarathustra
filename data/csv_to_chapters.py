@@ -5,7 +5,7 @@ from pathlib import Path
 
 
 CSV_PATH= Path("chapternames1.csv")
-JSON_PATH=Path("../chapters1.json")
+JSON_PATH=Path("../chapters2.json")
 TITLE_COL= 0
 
 def slugify(title:str)-> str:
@@ -22,7 +22,8 @@ def main()->None:
         records.append({
             "title": title,
             "slug":slug,
-            "file":f"{slug}.jpg"
+            "file":f"{slug}.jpg",
+            "notes":""
         })
 
     JSON_PATH.write_text(json.dumps(records, indent=2, ensure_ascii=False))
