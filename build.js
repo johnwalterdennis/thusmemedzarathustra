@@ -40,4 +40,4 @@ const indexHTML = `
 `;
 
 fs.writeFileSync(path.join(distDir, "index.html"), indexHTML);
-console.log(" Pages build in dist/ ");
+console.log(chapters.length + " Pages build in dist/ ");

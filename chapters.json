@@ -1,8 +1,417 @@
 [
-    {
-        "title": "Thus Spoke Zarathustra",
-        "slug": "home",
-        "file": "thus-spoke-Zarathustra.jpg"
-    },
-    {}
+  {
+    "title": "Thus Spoke Zarathustra",
+    "slug": "thus-spoke-zarathustra",
+    "file": "thus-spoke-zarathustra.jpg"
+  },
+  {
+    "title": "Zarathustra's Prologue",
+    "slug": "zarathustra's-prologue",
+    "file": "zarathustra's-prologue.jpg"
+  },
+  {
+    "title": "Zarathustra's Speeches",
+    "slug": "zarathustra's-speeches",
+    "file": "zarathustra's-speeches.jpg"
+  },
+  {
+    "title": "On The Three Metamorphoses",
+    "slug": "on-the-three-metamorphoses",
+    "file": "on-the-three-metamorphoses.jpg"
+  },
+  {
+    "title": "On The The Teachers Of Virtue",
+    "slug": "on-the-the-teachers-of-virtue",
+    "file": "on-the-the-teachers-of-virtue.jpg"
+  },
+  {
+    "title": "On The Afterworldly",
+    "slug": "on-the-afterworldly",
+    "file": "on-the-afterworldly.jpg"
+  },
+  {
+    "title": "On The The Despisers Of The Body",
+    "slug": "on-the-the-despisers-of-the-body",
+    "file": "on-the-the-despisers-of-the-body.jpg"
+  },
+  {
+    "title": "On The Enjoyng And Suffering The Passions",
+    "slug": "on-the-enjoyng-and-suffering-the-passions",
+    "file": "on-the-enjoyng-and-suffering-the-passions.jpg"
+  },
+  {
+    "title": "On The Pale Criminal",
+    "slug": "on-the-pale-criminal",
+    "file": "on-the-pale-criminal.jpg"
+  },
+  {
+    "title": "On Reading And Writing",
+    "slug": "on-reading-and-writing",
+    "file": "on-reading-and-writing.jpg"
+  },
+  {
+    "title": "On The The Tree On The Hill",
+    "slug": "on-the-the-tree-on-the-hill",
+    "file": "on-the-the-tree-on-the-hill.jpg"
+  },
+  {
+    "title": "On The The Preachers Of Death",
+    "slug": "on-the-the-preachers-of-death",
+    "file": "on-the-the-preachers-of-death.jpg"
+  },
+  {
+    "title": "On War And Warriors",
+    "slug": "on-war-and-warriors",
+    "file": "on-war-and-warriors.jpg"
+  },
+  {
+    "title": "On The The New Idol",
+    "slug": "on-the-the-new-idol",
+    "file": "on-the-the-new-idol.jpg"
+  },
+  {
+    "title": "On The The Flies In The Market-Place",
+    "slug": "on-the-the-flies-in-the-market-place",
+    "file": "on-the-the-flies-in-the-market-place.jpg"
+  },
+  {
+    "title": "On Chastity",
+    "slug": "on-chastity",
+    "file": "on-chastity.jpg"
+  },
+  {
+    "title": "On The The Friend",
+    "slug": "on-the-the-friend",
+    "file": "on-the-the-friend.jpg"
+  },
+  {
+    "title": "On The The Thousand And One Goals",
+    "slug": "on-the-the-thousand-and-one-goals",
+    "file": "on-the-the-thousand-and-one-goals.jpg"
+  },
+  {
+    "title": "On The Love Of The Neighbor",
+    "slug": "on-the-love-of-the-neighbor",
+    "file": "on-the-love-of-the-neighbor.jpg"
+  },
+  {
+    "title": "On The Way Of The Creator",
+    "slug": "on-the-way-of-the-creator",
+    "file": "on-the-way-of-the-creator.jpg"
+  },
+  {
+    "title": "On Little Old And Young Women",
+    "slug": "on-little-old-and-young-women",
+    "file": "on-little-old-and-young-women.jpg"
+  },
+  {
+    "title": "On The Adder'S Bite",
+    "slug": "on-the-adder's-bite",
+    "file": "on-the-adder's-bite.jpg"
+  },
+  {
+    "title": "On Child And Marriage",
+    "slug": "on-child-and-marriage",
+    "file": "on-child-and-marriage.jpg"
+  },
+  {
+    "title": "On The Free Death",
+    "slug": "on-the-free-death",
+    "file": "on-the-free-death.jpg"
+  },
+  {
+    "title": "On The Gift Giving Virtue",
+    "slug": "on-the-gift-giving-virtue",
+    "file": "on-the-gift-giving-virtue.jpg"
+  },
+  {
+    "title": "The Child With The Mirror",
+    "slug": "the-child-with-the-mirror",
+    "file": "the-child-with-the-mirror.jpg"
+  },
+  {
+    "title": "Upon The Blessed Isles",
+    "slug": "upon-the-blessed-isles",
+    "file": "upon-the-blessed-isles.jpg"
+  },
+  {
+    "title": "On The Pitying",
+    "slug": "on-the-pitying",
+    "file": "on-the-pitying.jpg"
+  },
+  {
+    "title": "On Priests",
+    "slug": "on-priests",
+    "file": "on-priests.jpg"
+  },
+  {
+    "title": "On The Virtuous",
+    "slug": "on-the-virtuous",
+    "file": "on-the-virtuous.jpg"
+  },
+  {
+    "title": "On The Rabble",
+    "slug": "on-the-rabble",
+    "file": "on-the-rabble.jpg"
+  },
+  {
+    "title": "On The Tarantulas",
+    "slug": "on-the-tarantulas",
+    "file": "on-the-tarantulas.jpg"
+  },
+  {
+    "title": "On The Famous Wise Men",
+    "slug": "on-the-famous-wise-men",
+    "file": "on-the-famous-wise-men.jpg"
+  },
+  {
+    "title": "The Night Song",
+    "slug": "the-night-song",
+    "file": "the-night-song.jpg"
+  },
+  {
+    "title": "The Dancing Song",
+    "slug": "the-dancing-song",
+    "file": "the-dancing-song.jpg"
+  },
+  {
+    "title": "The Tomb Song",
+    "slug": "the-tomb-song",
+    "file": "the-tomb-song.jpg"
+  },
+  {
+    "title": "On Self Overcoming",
+    "slug": "on-self-overcoming",
+    "file": "on-self-overcoming.jpg"
+  },
+  {
+    "title": "On Those Who Are Sublime",
+    "slug": "on-those-who-are-sublime",
+    "file": "on-those-who-are-sublime.jpg"
+  },
+  {
+    "title": "On The Land Of Education",
+    "slug": "on-the-land-of-education",
+    "file": "on-the-land-of-education.jpg"
+  },
+  {
+    "title": "On Immaculate Perception",
+    "slug": "on-immaculate-perception",
+    "file": "on-immaculate-perception.jpg"
+  },
+  {
+    "title": "On Scholars",
+    "slug": "on-scholars",
+    "file": "on-scholars.jpg"
+  },
+  {
+    "title": "On Poets",
+    "slug": "on-poets",
+    "file": "on-poets.jpg"
+  },
+  {
+    "title": "On Great Events",
+    "slug": "on-great-events",
+    "file": "on-great-events.jpg"
+  },
+  {
+    "title": "The Soothsayer",
+    "slug": "the-soothsayer",
+    "file": "the-soothsayer.jpg"
+  },
+  {
+    "title": "On Redemption",
+    "slug": "on-redemption",
+    "file": "on-redemption.jpg"
+  },
+  {
+    "title": "On Human Prudence",
+    "slug": "on-human-prudence",
+    "file": "on-human-prudence.jpg"
+  },
+  {
+    "title": "The Stillest Hour",
+    "slug": "the-stillest-hour",
+    "file": "the-stillest-hour.jpg"
+  },
+  {
+    "title": "The Wanderer",
+    "slug": "the-wanderer",
+    "file": "the-wanderer.jpg"
+  },
+  {
+    "title": "The Vision And The Riddle",
+    "slug": "the-vision-and-the-riddle",
+    "file": "the-vision-and-the-riddle.jpg"
+  },
+  {
+    "title": "On Involuntary Bliss",
+    "slug": "on-involuntary-bliss",
+    "file": "on-involuntary-bliss.jpg"
+  },
+  {
+    "title": "Before Sunrise",
+    "slug": "before-sunrise",
+    "file": "before-sunrise.jpg"
+  },
+  {
+    "title": "On Virtue That Makes Small",
+    "slug": "on-virtue-that-makes-small",
+    "file": "on-virtue-that-makes-small.jpg"
+  },
+  {
+    "title": "Upon The Mount Of Olives",
+    "slug": "upon-the-mount-of-olives",
+    "file": "upon-the-mount-of-olives.jpg"
+  },
+  {
+    "title": "On Passing By",
+    "slug": "on-passing-by",
+    "file": "on-passing-by.jpg"
+  },
+  {
+    "title": "On Apostates",
+    "slug": "on-apostates",
+    "file": "on-apostates.jpg"
+  },
+  {
+    "title": "The Return Home",
+    "slug": "the-return-home",
+    "file": "the-return-home.jpg"
+  },
+  {
+    "title": "On The Three Evil Things",
+    "slug": "on-the-three-evil-things",
+    "file": "on-the-three-evil-things.jpg"
+  },
+  {
+    "title": "On The Spirit Of Gravity",
+    "slug": "on-the-spirit-of-gravity",
+    "file": "on-the-spirit-of-gravity.jpg"
+  },
+  {
+    "title": "On Old And New Tables",
+    "slug": "on-old-and-new-tables",
+    "file": "on-old-and-new-tables.jpg"
+  },
+  {
+    "title": "The Convalescent",
+    "slug": "the-convalescent",
+    "file": "the-convalescent.jpg"
+  },
+  {
+    "title": "On The Great Longing",
+    "slug": "on-the-great-longing",
+    "file": "on-the-great-longing.jpg"
+  },
+  {
+    "title": "The Other Dancing Song",
+    "slug": "the-other-dancing-song",
+    "file": "the-other-dancing-song.jpg"
+  },
+  {
+    "title": "The Seven Seals Or The Yes And Amen Song",
+    "slug": "the-seven-seals-or-the-yes-and-amen-song",
+    "file": "the-seven-seals-or-the-yes-and-amen-song.jpg"
+  },
+  {
+    "title": "The Honey Sacrifice",
+    "slug": "the-honey-sacrifice",
+    "file": "the-honey-sacrifice.jpg"
+  },
+  {
+    "title": "The Cry Of Distress",
+    "slug": "the-cry-of-distress",
+    "file": "the-cry-of-distress.jpg"
+  },
+  {
+    "title": "Conversation With The Kings",
+    "slug": "conversation-with-the-kings",
+    "file": "conversation-with-the-kings.jpg"
+  },
+  {
+    "title": "The Leech",
+    "slug": "the-leech",
+    "file": "the-leech.jpg"
+  },
+  {
+    "title": "The Magician",
+    "slug": "the-magician",
+    "file": "the-magician.jpg"
+  },
+  {
+    "title": "Retired",
+    "slug": "retired",
+    "file": "retired.jpg"
+  },
+  {
+    "title": "The Ugliest Man",
+    "slug": "the-ugliest-man",
+    "file": "the-ugliest-man.jpg"
+  },
+  {
+    "title": "The Voluntary Beggar",
+    "slug": "the-voluntary-beggar",
+    "file": "the-voluntary-beggar.jpg"
+  },
+  {
+    "title": "The Shadow",
+    "slug": "the-shadow",
+    "file": "the-shadow.jpg"
+  },
+  {
+    "title": "At Noon",
+    "slug": "at-noon",
+    "file": "at-noon.jpg"
+  },
+  {
+    "title": "The Welcome",
+    "slug": "the-welcome",
+    "file": "the-welcome.jpg"
+  },
+  {
+    "title": "The Last Supper",
+    "slug": "the-last-supper",
+    "file": "the-last-supper.jpg"
+  },
+  {
+    "title": "On The Higher Man",
+    "slug": "on-the-higher-man",
+    "file": "on-the-higher-man.jpg"
+  },
+  {
+    "title": "The Song Of Melancholy",
+    "slug": "the-song-of-melancholy",
+    "file": "the-song-of-melancholy.jpg"
+  },
+  {
+    "title": "On Science",
+    "slug": "on-science",
+    "file": "on-science.jpg"
+  },
+  {
+    "title": "Among Daughters Of The Wilderness",
+    "slug": "among-daughters-of-the-wilderness",
+    "file": "among-daughters-of-the-wilderness.jpg"
+  },
+  {
+    "title": "The Awakening",
+    "slug": "the-awakening",
+    "file": "the-awakening.jpg"
+  },
+  {
+    "title": "The Ass Festival",
+    "slug": "the-ass-festival",
+    "file": "the-ass-festival.jpg"
+  },
+  {
+    "title": "The Drunken Song",
+    "slug": "the-drunken-song",
+    "file": "the-drunken-song.jpg"
+  },
+  {
+    "title": "The Sign",
+    "slug": "the-sign",
+    "file": "the-sign.jpg"
+  }
 ]
