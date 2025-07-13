@@ -5,6 +5,8 @@ const chapters = JSON.parse(fs.readFileSync("chapters.json", "utf-8"));
 const template = fs.readFileSync("template.html", "utf-8");
 
 const distDir = "dist";
+fs.cpSync("memes", path.join(distDir, "memes"), { recursive: true });
+fs.cpSync("fonts", path.join(distDir, "fonts"), { recursive: true });
 fs.rmSync(distDir, { recursive: true, force: true });
 fs.mkdirSync(distDir, { recursive: true });
 
