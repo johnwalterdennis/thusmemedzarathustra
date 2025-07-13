@@ -39,6 +39,7 @@ const indexHTML = `
         url('fonts/Papyrus.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
+        font-display: block;
         }
         
         .font-papyrus {
